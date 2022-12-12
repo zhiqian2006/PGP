@@ -1,8 +1,13 @@
 -----BEGIN PGP PUBLIC KEY BLOCK-----
+
 Comment: User-ID:	ZHIQIAN <me@zhiqian.ca>
+
 Comment: Valid from:	12/12/22 13:19
+
 Comment: Type:	255-bit EdDSA (secret key available)
+
 Comment: Usage:	Signing, Encryption, Certifying User-IDs, SSH Authentication
+
 Comment: Fingerprint:	251BDEB6FD483093765A6BD9F43120ED5EE4BFF0
 
 
